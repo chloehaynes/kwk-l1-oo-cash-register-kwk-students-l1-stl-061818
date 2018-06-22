@@ -5,3 +5,6 @@ class Amazon
     @total = total
   end
 end
+
+
+puts Amazon
