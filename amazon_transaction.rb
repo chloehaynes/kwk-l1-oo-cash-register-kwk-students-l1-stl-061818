@@ -25,7 +25,7 @@ cart_item_prices.each do |price|
 end
  
 puts big_ticket_items
- prints out items that are over $15 in the array #cart_item_prices
+ #prints out items that are over $15 in the array #cart_item_prices
  
 
 
@@ -39,4 +39,4 @@ cart_item_prices.each do |price|
 end
  
 puts total 
- adds all the cart item prices together and stores them in a variable called total
+ #adds all the cart item prices together and stores them in a variable called total
